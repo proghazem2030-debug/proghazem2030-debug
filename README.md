@@ -1,7 +1,7 @@
-# Hey! Nice to see you. ![banner](images/banner.jpg)
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.
 
 Welcome to my page!  
-I'm **Hazem Bekheit**, **Data Scientist & Programming Problem Solver** from ![Egypt](https://cdn-icons-png.flaticon.com/512/197/197604.png) **Egypt**.
+I'm *Hazem Bekheit, **Data Scientist & Programming Problem Solver* from ![Egypt](https://cdn-icons-png.flaticon.com/512/197/197604.png) *Egypt*.
 
 ---
 
@@ -26,9 +26,9 @@ I'm **Hazem Bekheit**, **Data Scientist & Programming Problem Solver** from ![Eg
 
 | 🎁 Project | ⭐ Stars | 📚 Forks | 💻 Language | 📂 Repository |
 |------------|---------|---------|-------------|----------------|
-| **Library Management System (C++)** | ![Stars](https://img.shields.io/github/stars/proghazem2030-debug/hazem-bekhet?style=flat-square&labelColor=343b41) | ![Forks](https://img.shields.io/github/forks/proghazem2030-debug/hazem-bekhet?style=flat-square&labelColor=343b41) | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) | [View on GitHub](https://github.com/proghazem2030-debug/hazem-bekhet) |
+| *Library Management System (C++)* | ![Stars](https://img.shields.io/github/stars/proghazem2030-debug/hazem-bekhet?style=flat-square&labelColor=343b41) | ![Forks](https://img.shields.io/github/forks/proghazem2030-debug/hazem-bekhet?style=flat-square&labelColor=343b41) | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) | [View on GitHub](https://github.com/proghazem2030-debug/hazem-bekhet) |
 
-A comprehensive C++ project that applies concepts of **Object-Oriented Programming (OOP)**, **Data Structures**, and **Algorithms** — includes adding, deleting, sorting, searching, and managing book data using linked lists.
+A comprehensive C++ project that applies concepts of *Object-Oriented Programming (OOP), **Data Structures, and **Algorithms* — includes adding, deleting, sorting, searching, and managing book data using linked lists.
 
 ---
 
@@ -43,7 +43,7 @@ A comprehensive C++ project that applies concepts of **Object-Oriented Programmi
 ---
 
 <p align="center">
-This <i>README</i> file was created with ❤️ by **Hazem Bekheit**.<br/>
+This <i>README</i> file was created with ❤ by *Hazem Bekheit*.<br/>
 Data Scientist & Programming Problem Solver
 </p>
 
