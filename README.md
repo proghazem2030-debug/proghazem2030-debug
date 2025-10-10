@@ -1,4 +1,4 @@
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.
+# Hey! Nice to see you. ![banner](images/banner.jpg)
 
 Welcome to my page!  
 I'm **Hazem Bekheit**, **Data Scientist & Programming Problem Solver** from ![Egypt](https://cdn-icons-png.flaticon.com/512/197/197604.png) **Egypt**.
