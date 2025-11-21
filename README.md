@@ -1,7 +1,7 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.
 
 Welcome to my page!  
-I'm *Hazem Bekheit*, **Data Scientist & Programming Problem Solver** from <img src="https://cdn-icons-png.flaticon.com/512/197/197604.png" width="20"/> *Egypt*.
+I'm *Hazem Bekheit*, **Data Scientist & Programming Problem Solver** from *Egypt*.
 
 ---
 
