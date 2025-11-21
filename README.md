@@ -1,7 +1,7 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.
 
 Welcome to my page!  
-I'm *Hazem Bekheit*, **Data Scientist & Programming Problem Solver** from ![Egypt](https://cdn-icons-png.flaticon.com/512/197/197604.png) *Egypt*.
+I'm *Hazem Bekheit*, **Data Scientist & Programming Problem Solver** from <img src="https://cdn-icons-png.flaticon.com/512/197/197604.png" width="20"/> *Egypt*.
 
 ---
 
@@ -35,10 +35,10 @@ A comprehensive C++ project that applies concepts of *Object-Oriented Programmin
 
 ## 📬 Contact Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white&logoWidth=30)](https://github.com/proghazem2030-debug/hazem-bekhet)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=30)](https://www.linkedin.com/in/hazem-bekheit-65195534a)  
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&logoWidth=30)](https://www.facebook.com/share/1CGEcScx5Z/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=30)](mailto:proghazem2030@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white&logoWidth=30)](https://github.com/proghazem2030-debug/hazem-bekhet)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=30)](https://www.linkedin.com/in/hazem-bekheit-65195534a)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&logoWidth=30)](https://www.facebook.com/share/1CGEcScx5Z/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=30)](mailto:proghazem2030@gmail.com)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&logoWidth=30)](https://codeforces.com/profile/eng.hazembekheit2030)
 
 ---
@@ -49,6 +49,6 @@ Data Scientist & Programming Problem Solver
 </p>
 
 <p align="center">
-![Stars](https://img.shields.io/github/stars/proghazem2030-debug/hazem-bekhet?style=flat-square&labelColor=343b41)  
+![Stars](https://img.shields.io/github/stars/proghazem2030-debug/hazem-bekhet?style=flat-square&labelColor=343b41)
 ![Forks](https://img.shields.io/github/forks/proghazem2030-debug/hazem-bekhet?style=flat-square&labelColor=343b41)
 </p>
