@@ -34,7 +34,7 @@ A comprehensive C++ project that applies concepts of *Object-Oriented Programmin
 ---
 
 ## 📬 Contact Me
-
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&logoWidth=30)](https://wa.me/qr/56KDPW4XRYDWI1)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white&logoWidth=30)](https://github.com/proghazem2030-debug/hazem-bekhet)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=30)](https://www.linkedin.com/in/hazem-bekheit-65195534a)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&logoWidth=30)](https://www.facebook.com/share/1CGEcScx5Z/)
