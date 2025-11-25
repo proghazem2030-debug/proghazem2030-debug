@@ -14,12 +14,37 @@ I'm *Hazem Bekheit*, **Data Scientist & Programming Problem Solver** from *Egypt
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-4C9A2A?style=flat-square&logo=seaborn&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/-XGBoost-EB5E0B?style=flat-square&logo=xgboost&logoColor=white)
+![LightGBM](https://img.shields.io/badge/-LightGBM-7FBC41?style=flat-square&logo=lightgbm&logoColor=white)
+![CatBoost](https://img.shields.io/badge/-CatBoost-FFCC00?style=flat-square&logo=catboost&logoColor=black)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![Statsmodels](https://img.shields.io/badge/-Statsmodels-003B57?style=flat-square&logo=python&logoColor=white)
+
+---
+
+### 🧮 Big Data & Parallel Computing
+![Dask](https://img.shields.io/badge/-Dask-FDB462?style=flat-square&logo=dask&logoColor=black)
+![PySpark](https://img.shields.io/badge/-PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+
+---
+
+### 🗃️ Databases
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-D71F00?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+---
+
+### ⚙️ APIs & MLOps
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 
 ---
 
@@ -49,6 +74,6 @@ Data Scientist & Programming Problem Solver
 </p>
 
 <p align="center">
-![Stars](https://img.shields.io/github/stars/proghazem2030-debug/hazem-bekhet?style=flat-square&labelColor=343b41)
-![Forks](https://img.shields.io/github/forks/proghazem2030-debug/hazem-bekhet?style=flat-square&labelColor=343b41)
+<img src="https://img.shields.io/github/stars/proghazem2030-debug/hazem-bekhet?style=flat-square&labelColor=343b41"/>
+<img src="https://img.shields.io/github/forks/proghazem2030-debug/hazem-bekhet?style=flat-square&labelColor=343b41"/>
 </p>
