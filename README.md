@@ -22,20 +22,24 @@
 
 ## 💻 Technical Skills
 
+---
+
+## 💻 Technical Skills
+
 <p align="center">
-    <img width="8%" style="padding:5px" src="https://img.icons8.com/color/144/000000/c-plus-plus-logo.png" alt="C++"/>
-    <img width="8%" style="padding:5px" src="https://img.icons8.com/color/144/000000/python.png" alt="Python"/>
+    <img width="8%" style="padding:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++"/>
+    <img width="8%" style="padding:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"/>
     <img width="8%" style="padding:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" alt="Anaconda"/>
-    <img width="8%" style="padding:5px" src="https://img.icons8.com/color/144/000000/visual-studio-code-2019.png" alt="VS Code"/>
-    <img width="8%" style="padding:5px" src="https://img.icons8.com/color/144/000000/visual-studio.png" alt="Visual Studio 2022"/>
+    <img width="8%" style="padding:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code"/>
+    <img width="8%" style="padding:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio"/>
     <img width="8%" style="padding:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"/>
     <img width="8%" style="padding:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub"/>
     <img width="8%" style="padding:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter"/>
-    <img width="8%" style="padding:5px" src="https://img.icons8.com/color/144/000000/notion.png" alt="Notion"/>
-    <img width="8%" style="padding:5px" src="https://img.icons8.com/color/144/000000/postgre-sql.png" alt="PostgreSQL"/>
-    <img width="8%" style="padding:5px" src="https://img.icons8.com/color/144/000000/mongodb.png" alt="MongoDB"/>
+    <img width="8%" style="padding:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL"/>
+    <img width="8%" style="padding:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB"/>
 </p>
 
+---
 ---
 
 ### 🧩 Data Science & ML Stack
